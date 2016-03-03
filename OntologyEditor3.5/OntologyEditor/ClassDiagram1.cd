@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OntologyEditor.About" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>About.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.AddNode" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAADAAAYAAAAEGgAAAABAAA=</HashCode>
+      <FileName>AddNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.Diagram" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.Figure" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgIAAAgABAAAAAAEAAAAAAgACAAEAAA=</HashCode>
+      <FileName>Diagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.FigureList" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.SolidFigure" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAgAAggAAAAIAAAACAAAIAAAAEAgAgAAEgoA=</HashCode>
+      <FileName>Diagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.RectFigure" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.RoundRectFigure" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.Marker" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAgAAAAAAAAAAAAAIAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Diagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.SizeMarker" Collapsed="true">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Diagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.EndLineMarker" Collapsed="true">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAggCAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Diagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.LineFigure" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAAAAAAAAgAAAAAAAAAAAAAJAAAQAAgAAAAEAAA=</HashCode>
+      <FileName>Diagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.SerializableGraphicsPath" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OntologyEditor.DiagramBox" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAkAIKQMAgGAAAODAaAeABYgQAg8MCiAAQgCAAA=</HashCode>
+      <FileName>DiagramBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.Form1" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/z+1Rv+pOyCwUx2X/P+h4d/jYO+78frr8P5fcLl15ps=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.TransferData" Collapsed="true">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.Ontology" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAEAAACAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ontology.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.ClassPropertie" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Ontology.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.OntoClass" Collapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAwAAgAAAAAIAEAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ontology.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.ClassesList" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ontology.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.OntoPropertie" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAJAAAQAAAAAAAACAAQAAIAEAQAAAIAAAIAAAAA=</HashCode>
+      <FileName>Ontology.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.PropertiesList" Collapsed="true">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ontology.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.OntoIndividual" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAIAEAAAAAABAAAQAAAA=</HashCode>
+      <FileName>Ontology.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.IndividualsList" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ontology.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.Program" Collapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.SelectIndivid" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAiAAAAAAAACAAAACAAgYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>SelectIndivid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.SelectNode" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAAAAAAACAAAACAAA5AAAAAGAAAACAAAA=</HashCode>
+      <FileName>SelectNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.SelectProperty" Collapsed="true">
+    <Position X="17.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwQAAAAIACAgACEQAACAAQACAAIZAQAAAGAAAQAAAAA=</HashCode>
+      <FileName>SelectProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.Properties.Resources" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OntologyEditor.Properties.Settings" Collapsed="true">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
